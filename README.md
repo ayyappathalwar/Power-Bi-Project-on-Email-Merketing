@@ -1,2 +1,2 @@
-# Power-Bi-Project-on-Email-Merketing
+# Power-Bi-Project-on-Email-Marketing
 Email Marketing Project
